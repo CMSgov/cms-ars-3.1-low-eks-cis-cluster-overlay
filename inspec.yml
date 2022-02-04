@@ -1,10 +1,10 @@
-name: cms-ars-3.1-moderate-eks-cis-cluster-overlay
-title: cms-ars-3.1-moderate-eks-cis-cluster-overlay
+name: cms-ars-3.1-low-eks-cis-cluster-overlay
+title: cms-ars-3.1-low-eks-cis-cluster-overlay
 maintainer: CMS SAF team
 copyright: 
 copyright_email: saf@cms.hhs.gov
 license: Apache-2.0
-summary: "CMS ARS 3.1 Moderate Overlay InSpec Validation Profile for EKS CIS Cluster"
+summary: "CMS ARS 3.1 Low Overlay InSpec Validation Profile for EKS CIS Cluster"
 version: 1.0.1
 inspec_version: ">= 4.0"
 
